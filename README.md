@@ -4,7 +4,7 @@ Snow, rain, thunderstorms, hail and falling maple leaves on your desktop. Snow s
 
 ## Download
 
-**[Download Weatherpane 1.3.0 (DMG)](https://github.com/Levkalink/weatherpane-releases/releases/latest)**
+**[Download Weatherpane 1.4.0 (DMG)](https://github.com/Levkalink/weatherpane-releases/releases/latest)**
 
 Requires macOS 13 or later. Runs on Apple Silicon and Intel.
 

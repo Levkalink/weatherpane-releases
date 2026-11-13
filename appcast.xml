@@ -5,6 +5,29 @@
     <link>https://github.com/Levkalink/weatherpane-releases</link>
     <language>en</language>
     <item>
+      <title>Version 1.4.0</title>
+      <pubDate>Fri, 13 Nov 2026 05:46:52 +0000</pubDate>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Fixed</h3>
+<li>**Important:** with sound on, after about 20 seconds of snow every app on the Mac could go silent. If that happened, quit Weatherpane. This version fixes it.</li>
+<li>Sounds were too quiet to hear on laptop speakers.</li>
+<li>"Match the weather outside" now applies the city as you type, and says what it is showing.</li>
+<li>The Dock: ground snow now lies on the desktop itself, so the Dock (shown or auto-hidden) and windows cover it naturally.</li>
+<li>Mission Control and Exposé no longer stutter: the weather steps aside while they're open.</li>
+<li>The cursor touches only the snow it's actually in. Working in a title bar or dragging no longer erodes drifts.</li>
+<li>Shaking a window shakes its snow off. Dragging a snowy window is smooth.</li>
+<li>Hail looks like ice and moves smoothly. 60 fps is the new default; 30 is the battery option.</li>
+<li>Leaves left after autumn get buried by snow.</li>
+<h3>Added</h3>
+<li>Gusty wind: natural swells and gusts on top of your setting or the real wind.</li>
+<li>A window dragged into another window's snow bulldozes it off.</li>
+<li>The living snowman got a scarf, a proper hat, twig arms with elbows, blinking, eyes that follow the cursor, squash and stretch, and a jump when clicked.</li>
+<li>"Build one" makes the snowman come right away. On its own it appears rarely (every 10–40 minutes, only when there's snow).</li>]]></description>
+      <enclosure url="https://github.com/Levkalink/weatherpane-releases/releases/download/v1.4.0/Weatherpane-1.4.0.zip" type="application/octet-stream" sparkle:edSignature="NzM78YFe43OFc2T8bK3mLs0oJLA86RCBhuz8PGe0s4sKtjDu2y6k0ZIkJnFdqm6p4vZtJ+a5mpRCWQdJBFFjDg==" length="2387206"/>
+    </item>
+    <item>
       <title>Version 1.3.0</title>
       <pubDate>Fri, 13 Nov 2026 05:02:53 +0000</pubDate>
       <sparkle:version>4</sparkle:version>
