@@ -5,6 +5,18 @@
     <link>https://github.com/Levkalink/weatherpane-releases</link>
     <language>en</language>
     <item>
+      <title>Version 1.4.1</title>
+      <pubDate>Fri, 13 Nov 2026 06:07:43 +0000</pubDate>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Fixed</h3>
+<li>Everything felt sluggish: the weather layers redrew far more often than needed (on two displays, six full-screen layers at 60 fps). Now each layer redraws only when its own content changes. Snow and leaves run at 30 fps, which looks the same, and only rain and hail use the full rate.</li>
+<li>No more snow on the menu bar.</li>
+<li>Snow on windows no longer starts as a row of "pixels": snowfall varies smoothly along the edge, and a fresh dusting fades in.</li>]]></description>
+      <enclosure url="https://github.com/Levkalink/weatherpane-releases/releases/download/v1.4.1/Weatherpane-1.4.1.zip" type="application/octet-stream" sparkle:edSignature="q5il1rNSLNgiAgusFi3aUKQA6TMUQpel70uB52nodT4WxVDUOsR0+Y1FCxhbt0ZsTWMXhB5eLr7SQQNNcM5yAQ==" length="2389543"/>
+    </item>
+    <item>
       <title>Version 1.4.0</title>
       <pubDate>Fri, 13 Nov 2026 05:46:52 +0000</pubDate>
       <sparkle:version>5</sparkle:version>
