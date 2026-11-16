@@ -5,6 +5,25 @@
     <link>https://github.com/Levkalink/weatherpane-releases</link>
     <language>en</language>
     <item>
+      <title>Version 1.5.0</title>
+      <pubDate>Mon, 16 Nov 2026 06:37:43 +0000</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Added</h3>
+<li>With the Dock always shown, the living snowman now performs on top of the Dock instead of hiding behind it. It leaves by jumping off.</li>
+<li>Snow slowly thaws once it stops snowing, so it never covers the screen for good.</li>
+<li>"Hide from screenshots and sharing": the weather stays on screen but is left out of screenshots, recordings and calls.</li>
+<li>"Falls in front of windows": the weather can fall over app windows too.</li>
+<li>Russian interface.</li>
+<li>First-run tips. The "?" in the panel shows them again.</li>
+<li>The temperature outside next to the menu bar icon while "Match the weather outside" is on (can be turned off).</li>
+<h3>Fixed</h3>
+<li>Snow no longer seems to lie on the menu bar. Windows tucked right under it don't grow drifts.</li>
+<li>The panel fits on small screens (it scrolls when needed), and Russian labels are no longer cut off.</li>]]></description>
+      <enclosure url="https://github.com/Levkalink/weatherpane-releases/releases/download/v1.5.0/Weatherpane-1.5.0.zip" type="application/octet-stream" sparkle:edSignature="3UwgRYCbNi5oSbhdeS/798EP5MVi3en5nWI/NfJvxldL5wXl6XnimgyZHGQyPc1I53W4aS9DmY5ahOQr1XyWDA==" length="2486716"/>
+    </item>
+    <item>
       <title>Version 1.4.1</title>
       <pubDate>Fri, 13 Nov 2026 06:07:43 +0000</pubDate>
       <sparkle:version>6</sparkle:version>
